@@ -6,4 +6,4 @@ Its colours of red, green, blue and white can all be set to on or off simultaneo
 
 ![LED-Strip](https://github.com/A13x07/LED-stripBlynk.git/raw/{main}/{path}/schematic.png)
 
-![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/schematic.png)
