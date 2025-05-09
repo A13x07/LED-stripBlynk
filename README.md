@@ -5,3 +5,5 @@ The LED strip is controlled using an ESP 32 over the internet using the platform
 Its colours of red, green, blue and white can all be set to on or off simultaneously or individually.
 
 ![LED-Strip](https://github.com/A13x07/LED-stripBlynk.git/raw/{main}/{path}/schematic.png)
+
+![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
