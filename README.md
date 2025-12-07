@@ -1,5 +1,6 @@
-    The LED strip is controlled using an ESP 32 over the internet using the platform Blynk - either the website, or the app.
+   The LED strip is controlled using an ESP 32 over the internet using the platform Blynk - either the website, or the app.
 Its colours of red, green, blue and white can all be set to on or off simultaneously or individually.
+
 
 Description:
 
