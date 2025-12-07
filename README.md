@@ -1,8 +1,12 @@
 The LED strip is controlled using an ESP 32 over the internet using the platform Blynk - either the website, or the app.
 Its colours of red, green, blue and white can all be set to on or off simultaneously or individually.
 
+Simulation:
+
 Project in the simulator Wokwi can be found below:
 https://wokwi.com/projects/424801262978532353
+
+IMAGES:
 
 1. Diagram
 
@@ -50,3 +54,10 @@ Installation & Run
   • Blynk Auth Token
 5. Connect the ESP32 via USB
 6. Open the Serial Monitor and make sure
+
+License
+MIT License
+
+
+Author
+Created by A13x07
