@@ -1,7 +1,9 @@
-The LED strip is controlled using an ESP 32 over the internet using the platform Blynk - either the website, or the app.
+   The LED strip is controlled using an ESP 32 over the internet using the platform Blynk - either the website, or the app.
 Its colours of red, green, blue and white can all be set to on or off simultaneously or individually.
 
 Description:
+
+
  This project demonstrates how to control an RGBW LED strip using an ESP32 and the Blynk platform (mobile app + web dashboard). Each channel of the strip (Red, Green, Blue, White) is turned on and off through a 4-channel relay.
 
 The project is created as an educational IoT example — to demonstrate remote device control.
