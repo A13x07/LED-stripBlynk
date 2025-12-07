@@ -1,6 +1,17 @@
 The LED strip is controlled using an ESP 32 over the internet using the platform Blynk - either the website, or the app.
 Its colours of red, green, blue and white can all be set to on or off simultaneously or individually.
 
+Description:
+ This project demonstrates how to control an RGBW LED strip using an ESP32 and the Blynk platform (mobile app + web dashboard). Each channel of the strip (Red, Green, Blue, White) is turned on and off through a 4-channel relay.
+
+The project is created as an educational IoT example — to demonstrate remote device control.
+
+Technologies
+ • ESP32 DevKit v1
+ • Blynk IoT Platform (App + Web Dashboard)
+ • Arduino IDE
+ • Wokwi Simulator
+
 Simulation:
 
 Project in the simulator Wokwi can be found below:
@@ -40,9 +51,21 @@ GPIO13 → Green
 GPIO14 → Blue
 GPIO27 → White
 
+IMPORTANT:
+ESP32 GND, relay GND, and LED strip GND must be connected together.
+Otherwise the relays will not switch correctly.
+
 This project requires:
 - Blynk library v1.2.0 or later
 - ESP32 Arduino core v2.0.17 or later
+
+Description step by step how we implement it:
+ 1. Blynk → Create Template
+ 2. Add Datastreams → V0–V3
+ 3. Add Buttons (Switch mode)
+ 4. Bind buttons to V0–V3
+ 5. Copy Auth Token
+ 6. Paste Auth Token in sketch
 
 Installation & Run
 1. Open the file LEDstripBlynk.ino in the Arduino IDE
