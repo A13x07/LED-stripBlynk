@@ -3,10 +3,15 @@ Its colours of red, green, blue and white can all be set to on or off simultaneo
 
 Project in the simulator Wokwi can be found below:
 https://wokwi.com/projects/424801262978532353
+
 1. Diagram
+
+
 ![LED-Strip](https://github.com/A13x07/LED-stripBlynk/raw/main/schematic.png)
 
 2. Project photo
+
+   
 ![LED-Strip](https://github.com/A13x07/LED-stripBlynk/raw/main/LED-StripBlynkpic1.jpg)
 
 The links to the products that make up the project can be found below:
